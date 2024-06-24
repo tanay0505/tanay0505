@@ -5,6 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/tanayshah0505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanayshah0505" height="30" width="40" /></a>
 <a href="https://instagram.com/tanayshah0505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanayshah0505" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tanay_s11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanay_s11" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tanayshah0505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanayshah0505" height="30" width="40" /></a>
 </p>
 
