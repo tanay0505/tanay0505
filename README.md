@@ -8,7 +8,8 @@
 
 ### -->
 
-<!-- <img align="right" alt="GIF" src="./working.gif" width="350"/> -->
+<!-- <img align="right" alt="GIF" src="![image](https://github.com/user-attachments/assets/6261ab83-26ea-481f-b40e-19a201412643)
+" width="350"/> -->
 
 <h2> About Me </h2>
 
