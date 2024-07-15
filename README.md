@@ -8,7 +8,7 @@
 
 ### -->
 
-<!-- <img align="right" alt="GIF" src="[./working.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2tCeGY0WHg1-FGsTKvzsdZ&ust=1721113565241000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjXlOm9qIcDFQAAAAAdAAAAABAE)" width="350"/> -->
+<!-- <img align="right" alt="GIF" src="[./working.gif]" width="350"/> -->
 
 <h2> About Me </h2>
 
