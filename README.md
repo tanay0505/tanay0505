@@ -1,3 +1,7 @@
+
+
+![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/user-attachments/assets/85b703b1-141b-432c-bb4d-6ba83a9ba991)
+
 ![Header](./header.png) 
 
 <!-- <h1 align="left">Hey 👋 What's up?</h1>
@@ -8,9 +12,8 @@
 
 ### -->
 
-![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/user-attachments/assets/85b703b1-141b-432c-bb4d-6ba83a9ba991)
-
-<!-- <img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2tCeGY0WHg1-FGsTKvzsdZ&ust=1721113565241000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjXlOm9qIcDFQAAAAAdAAAAABAE" width="350"/> -->
+<!-- <img align="right" alt="GIF" src="![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/user-attachments/assets/85b703b1-141b-432c-bb4d-6ba83a9ba991)
+" width="350"/> -->
 
 <h2> About Me </h2>
 
