@@ -1,7 +1,3 @@
-
-
-![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/user-attachments/assets/85b703b1-141b-432c-bb4d-6ba83a9ba991)
-
 ![Header](./header.png) 
 
 <!-- <h1 align="left">Hey 👋 What's up?</h1>
@@ -12,8 +8,10 @@
 
 ### -->
 
-<!-- <img align="right" alt="GIF" src="![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/user-attachments/assets/85b703b1-141b-432c-bb4d-6ba83a9ba991)
-" width="350"/> -->
+<!-- <img align="right" alt="GIF" src="./working.gif" width="350"/> -->
+
+< ![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/user-attachments/assets/9de7f0ad-fdd4-4d49-a8bc-068f7f64f6ca) width="350"/>
+
 
 <h2> About Me </h2>
 
