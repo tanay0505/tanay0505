@@ -8,10 +8,7 @@
 
 ### -->
 
-<!-- <img align="right" alt="GIF" src="./working.gif" width="350"/> -->
-
-< ![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/user-attachments/assets/9de7f0ad-fdd4-4d49-a8bc-068f7f64f6ca) width="350"/>
-
+<!-- <img align="right" ![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/user-attachments/assets/9de7f0ad-fdd4-4d49-a8bc-068f7f64f6ca) width="350"/> -->
 
 <h2> About Me </h2>
 
