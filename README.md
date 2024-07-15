@@ -8,7 +8,7 @@
 
 ### -->
 
-<!-- <img align="right" alt="GIF" src="[./working.gif]" width="350"/> -->
+<!-- <img align="right" alt="GIF" src="./working.gif" width="350"/> -->
 
 <h2> About Me </h2>
 
