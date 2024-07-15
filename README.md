@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![github-header-image](https://github.com/user-attachments/assets/a0fd9ce7-275e-4364-8726-00fb621b8e00)
 
 ## 🌐 Socials:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/kushalp4774/)
