@@ -7,7 +7,7 @@
 - 📚 I'm currently learning .
 - 🎯 Goals: Creating my portfolio, ideating some projects and yes, learning new things each and every day.
 
-![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/user-attachments/assets/8e411649-89a3-435d-8d2c-f931e2edc864)
+<img src=![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/user-attachments/assets/8e411649-89a3-435d-8d2c-f931e2edc864)" width="200" height="400" />
   
 <h2>🛠 Tech Stack</h2>
 
