@@ -7,11 +7,9 @@
 - 🎓 I’m currently in my third year of BTech CSE @Ahmedabad University.
 - ✨ I’m interested in Cyber Security.
 - 📚 I'm currently learning .
-- 🎯 Goals: Creating my portfolio, ideating some projects and yes, learning new things each and every day.
+- 🎯 Goals: Creating my portfolio, ideating some projects and yes, learning new things each day.
 
-
-
-
+  <br>
 
 <h2>🛠 Tech Stack</h2>
 
