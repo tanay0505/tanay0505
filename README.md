@@ -9,7 +9,7 @@
 - 📚 I'm currently learning .
 - 🎯 Goals: Creating my portfolio, ideating some projects and yes, learning new things each day.
 
-  <br>
+<br>  <br>   <br>
 
 <h2>🛠 Tech Stack</h2>
 
