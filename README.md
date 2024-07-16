@@ -29,5 +29,5 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tanay3527@gmail.com)
 
 # 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=KushalP47&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=KushalP47&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=tanay0505&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=tanay0505&theme=dark&hide_border=false)
