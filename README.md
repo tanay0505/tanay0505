@@ -40,7 +40,11 @@
   Connect with me 
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="margin-left: 10px; vertical-align: middle;">
 </h2>
-<a href="https://www.linkedin.com/in/aditya-deshmukh-561a371a8"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a> 
+<a href="https://www.linkedin.com/in/tanayshah0505"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a> 
+<a href="mailto:tanay3527@gmail.com"> 
+  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gmail.svg">
+</a>
+
 <br>
 <br>
   <br>
