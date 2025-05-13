@@ -2,7 +2,7 @@
 
 
 <h2> About Me </h2>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+<img align="right" img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="250" height="250" />
 <ul>
 <li>
 <p>🔭 I’m currently working on  Soy Estudiante</p>
