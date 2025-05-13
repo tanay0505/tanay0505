@@ -58,11 +58,28 @@
 
 <br>
 
-## Skills
+<h2>Skills</h2>
 
-**Languages**: Python, C++, JavaScript, SQL, LaTeX, HTML, CSS  
-**Developer Tools**: VS Code, GitHub, Google Colab, Spyder, Postman  
-**Technologies & Frameworks**: Flask, React, AWS, SQLite, Pandas, NumPy
+<div style="display: flex; flex-wrap: wrap; gap: 15px; padding: 10px;">
+  <!-- Languages Box -->
+  <div style="border: 2px solid #4CAF50; border-radius: 8px; padding: 10px; width: 150px; text-align: center; background-color: #f1f1f1;">
+    <strong>Languages</strong><br>
+    Python, C++, JavaScript, SQL, LaTeX, HTML, CSS
+  </div>
+
+  <!-- Developer Tools Box -->
+  <div style="border: 2px solid #2196F3; border-radius: 8px; padding: 10px; width: 180px; text-align: center; background-color: #f1f1f1;">
+    <strong>Developer Tools</strong><br>
+    VS Code, GitHub, Google Colab, Spyder, Postman
+  </div>
+
+  <!-- Technologies & Frameworks Box -->
+  <div style="border: 2px solid #FF9800; border-radius: 8px; padding: 10px; width: 250px; text-align: center; background-color: #f1f1f1;">
+    <strong>Technologies & Frameworks</strong><br>
+    Flask, React, AWS, SQLite, Pandas, NumPy
+  </div>
+</div>
+
 
 
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
