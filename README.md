@@ -41,8 +41,9 @@
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="margin-left: 10px; vertical-align: middle;">
 </h2>
 <a href="https://www.linkedin.com/in/aditya-deshmukh-561a371a8" target="_blank">
-  <img width="132px" align="center" src="https://img.shields.io/badge/LinkedIn-%2300A0DC.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img width="32px" align="center" src="https://img.shields.io/badge/LinkedIn-%2300A0DC.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
 <a href="mailto:your-email@example.com" target="_blank">
   <img width="32px" align="center" src="https://img.shields.io/badge/Gmail-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
