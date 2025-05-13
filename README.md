@@ -43,6 +43,11 @@
 <a href="https://www.linkedin.com/in/aditya-deshmukh-561a371a8" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="160px">
 </a>
+<a href="https://www.linkedin.com/in/aditya-deshmukh-561a371a8" target="_blank">
+  <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png" style="vertical-align:middle; padding-right: 8px;">
+  LinkedIn
+</a>
+
 
 
 
