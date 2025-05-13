@@ -56,24 +56,6 @@
   <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
 </a>&nbsp;&nbsp;
 
-<a href="https://www.postman.com/">
-  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-</a>&nbsp;&nbsp;
-
-<a href="https://github.com/Aditya664?tab=repositories&type=language=sqlite">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg">
-</a>&nbsp;&nbsp;
-
-<a href="https://github.com/Aditya664?tab=repositories&type=language=pandas">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pandas.svg">
-</a>&nbsp;&nbsp;
-
-<a href="https://github.com/Aditya664?tab=repositories&type=language=numpy">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/numpy.svg">
-</a>&nbsp;&nbsp;
-
-
-
 
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
 <a href="https://www.linkedin.com/in/aditya-deshmukh-561a371a8"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a> 
