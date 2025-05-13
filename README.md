@@ -52,6 +52,27 @@
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> 
 </a>
 
+<a href="https://github.com/Aditya664?tab=repositories&type=language=flask">
+  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+</a>&nbsp;&nbsp;
+
+<a href="https://www.postman.com/">
+  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/Aditya664?tab=repositories&type=language=sqlite">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg">
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/Aditya664?tab=repositories&type=language=pandas">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pandas.svg">
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/Aditya664?tab=repositories&type=language=numpy">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/numpy.svg">
+</a>&nbsp;&nbsp;
+
+
 
 
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
