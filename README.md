@@ -1,6 +1,5 @@
-  <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
-</p>
+![github-header-image](https://github.com/user-attachments/assets/2f9217c7-dc77-48bd-8fc9-2c1a50f68811)
+
 <h1> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
 </p>
