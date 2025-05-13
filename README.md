@@ -27,12 +27,22 @@
 <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=cpp&amp;sort=">
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg">
 </a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=mysql&amp;sort="> 
+  <img width="32px" style="margin-right:10px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg"> 
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> 
+  <img width="32px" style="margin-right:10px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> 
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=reactjs&amp;sort="> 
+  <img width="32px" style="margin-right:10px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"> 
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=html&amp;sort="> 
+  <img width="32px" style="margin-right:10px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> 
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=css&amp;sort="> 
+  <img width="32px" style="margin-right:10px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> 
+</a>
 
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=mysql&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=reactjs&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=html&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=css&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> </a>
 
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
 <a href="https://www.linkedin.com/in/aditya-deshmukh-561a371a8"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a> 
