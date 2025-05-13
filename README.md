@@ -24,38 +24,6 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> 
 </h2>
 
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
-</a>&nbsp;&nbsp;
-
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=cpp&amp;sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg">
-</a>&nbsp;&nbsp;
-
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=mysql&amp;sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg"> 
-</a>&nbsp;&nbsp;
-
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> 
-</a>&nbsp;&nbsp;
-
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=reactjs&amp;sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"> 
-</a>&nbsp;&nbsp;
-
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=html&amp;sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> 
-</a>&nbsp;&nbsp;
-
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=css&amp;sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> 
-</a>
-
-<a href="https://github.com/Aditya664?tab=repositories&type=language=flask">
-  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-</a>&nbsp;&nbsp;
-
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
