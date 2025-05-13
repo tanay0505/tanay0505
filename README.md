@@ -56,17 +56,25 @@
   <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
 </a>&nbsp;&nbsp;
 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-%2300D8FF.svg?style=for-the-badge&logo=react&logoColor=black)  
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
+
+<br>
 
 <h2 style="display: flex; align-items: center;">
   Connect with me 
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="margin-left: 10px; vertical-align: middle;">
 </h2>
 <a href="https://www.linkedin.com/in/aditya-deshmukh-561a371a8"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a> 
-<a href="https://www.twitter.com/NoobCoder07"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"></a> 
-<a href="https://medium.com/@adityadeshmukh7350"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"></a> 
-<a href="http://aditya664.me/"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"></a> 
-<a href="https://www.github.com/Aditya664"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
 <br>
 <br>
   <br>
