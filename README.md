@@ -5,19 +5,16 @@
 <img align="right" img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="250" height="250" />
 <ul>
 <li>
-<p>🔭 I’m currently working on  Soy Estudiante</p>
+<p>🎓 I’m currently in my final year of BTech CSE @Ahmedabad University.</p>
 </li>
 <li>
-<p>🌱 I’m currently learning Git, Java y GitHub</p>
+<p>🌱 I’m currently learning Data Science Fundamentals, Machine Learning Algorithms</p>
 </li>
 <li>
-<p>👯 I’m looking to collaborate on Proyectos</p>
+<p>✨ I’m interested in Data Science and Cyber Security</p>
 </li>
 <li>
-<p>💬 Ask me about Sql, Java, C#, JavaScript</p>
-</li>
-<li>
-<p>⚡ Fun fact: Me gustan los girasoles.</p>
+<p>🎯 Goals: Creating my portfolio, ideating some projects and yes, learning new things each day.</p>
 </li>
 </ul>
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
