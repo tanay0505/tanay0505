@@ -5,16 +5,13 @@
 <img align="right" img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="250" height="250" />
 <ul>
 <li>
-<p>🎓 I’m currently in my final year of BTech CSE @Ahmedabad University.</p>
+<p>🎓 BTech CSE Graduate from Ahmedabad University.</p>
 </li>
 <li>
-<p>🌱 I’m currently learning Data Science Fundamentals, Machine Learning Algorithms</p>
+<p>🌱 Currently learning Distributed Systems, Kubernetes, Cloud Infrastructure, and AI Engineering workflows</p>
 </li>
 <li>
-<p>✨ I’m interested in Data Science and Cyber Security</p>
-</li>
-<li>
-<p>🎯 Goals: Creating my portfolio, ideating some projects and yes, learning new things each day.</p>
+<p>✨ Interested in Backend Engineering, AI Systems, Cloud Infrastructure, and Cyber Security</p>
 </li>
 </ul>
 
@@ -66,4 +63,6 @@
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tanay0505&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tanay0505&theme=dark&hide_border=false)
+
+[![Tanay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanay0505&theme=github-dark)](https://github.com/tanay0505)
 
