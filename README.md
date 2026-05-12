@@ -55,10 +55,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 
+<br> <br>
 
 ## 🌐 Socials:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/tanayshah0505/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tanay3527@gmail.com)
+
+<br> <br>
 
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tanay0505&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
