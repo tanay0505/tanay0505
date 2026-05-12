@@ -8,10 +8,10 @@
 <p>🎓 BTech CSE Graduate from Ahmedabad University.</p>
 </li>
 <li>
-<p>🌱 Currently learning Distributed Systems, Kubernetes, Cloud Infrastructure, and AI Engineering workflows</p>
+<p>🌱 Currently learning Distributed Systems, Cloud Infrastructure and AI Engineering workflows</p>
 </li>
 <li>
-<p>✨ Interested in Backend Engineering, AI Systems, Cloud Infrastructure, and Cyber Security</p>
+<p>✨ Interested in Backend Engineering, AI Systems, Cloud Infrastructure and Cyber Security</p>
 </li>
 </ul>
 
@@ -63,6 +63,3 @@
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tanay0505&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tanay0505&theme=dark&hide_border=false)
-
-[![Tanay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanay0505&theme=github-dark)](https://github.com/tanay0505)
-
