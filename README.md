@@ -50,5 +50,8 @@
   </a>
 </p>
 
-📧 Email: tanayshah0505@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/tanayshah0505
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanay%20Shah-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanayshah0505/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:tanayshah0505@gmail.com)
