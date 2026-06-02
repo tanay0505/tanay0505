@@ -1,7 +1,16 @@
 ![github-header-image](https://github.com/user-attachments/assets/2f9217c7-dc77-48bd-8fc9-2c1a50f68811)
 
+<h1 align="center">Hi 👋, I'm Tanay Shah</h1>
+
+<h3 align="center">
+Cloud & DevOps Engineer | AWS | Docker | Kubernetes | Terraform | Linux
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Cloud+Engineer;DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Linux+%7C+CI%2FCD" />
+🏆 Top 5% TryHackMe <br>
+🎓 B.Tech Computer Science Graduate <br>
+☁️ Building Cloud Native Infrastructure <br>
+🚀 Open to Cloud & DevOps Opportunities
 </p>
 <h2> About Me </h2>
 <img align="right" img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="250" height="250" />
