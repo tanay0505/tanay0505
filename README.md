@@ -1,16 +1,23 @@
 ![github-header-image](https://github.com/user-attachments/assets/2f9217c7-dc77-48bd-8fc9-2c1a50f68811)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Tanay%20Shah&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Cloud%20%7C%20DevOps%20%7C%20Security&descAlignY=65" />
+  <img src="YOUR_BANNER_URL_HERE" alt="Cloud DevOps Security Banner" width="100%">
 </p>
 
+<h1 align="center">Hi 👋, I'm Tanay Shah</h1>
+
 <h3 align="center">
-Cloud & DevOps Engineer
+Cloud • DevOps • Security
 </h3>
 
 <p align="center">
-AWS • Docker • Kubernetes • Terraform • Linux • GitHub Actions
+Build Faster. Deploy Smarter. Secure Everything.
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,bash,git,githubactions,python" />
+</p>
+
 
 <h2> About Me </h2>
 <img align="right" img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="250" height="250" />
