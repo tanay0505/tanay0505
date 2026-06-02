@@ -36,12 +36,6 @@
 
 <br> <br>
 
-## 🌐 Socials:
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/tanayshah0505/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tanay3527@gmail.com)
-
-<br> <br>
-
 ## 📫 Connect With Me
 
 <p align="left">
@@ -53,9 +47,3 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanay%20Shah-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanayshah0505/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:tanayshah0505@gmail.com)
