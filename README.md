@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0F172A&height=220&section=header&text=Tanay%20Shah&fontSize=50&fontColor=38BDF8&animation=blinking&desc=Linux%20|%20Cloud%20|%20DevOps%20|%20Automation" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,100:2563EB&height=250&section=header&text=Tanay%20Shah&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Build%20Faster%20•%20Deploy%20Smarter%20•%20Scale%20Reliably" />
 </p>
 
 
