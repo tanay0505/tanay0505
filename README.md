@@ -1,20 +1,6 @@
 ![github-header-image](https://github.com/user-attachments/assets/2f9217c7-dc77-48bd-8fc9-2c1a50f68811)
 
 <p align="center">
-  <img src="YOUR_BANNER_URL_HERE" alt="Cloud DevOps Security Banner" width="100%">
-</p>
-
-<h1 align="center">Hi 👋, I'm Tanay Shah</h1>
-
-<h3 align="center">
-Cloud • DevOps • Security
-</h3>
-
-<p align="center">
-Build Faster. Deploy Smarter. Secure Everything.
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,bash,git,githubactions,python" />
 </p>
 
