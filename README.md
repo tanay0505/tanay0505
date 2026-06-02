@@ -23,7 +23,7 @@
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,mysql,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp" />
   <img src="https://skillicons.dev/icons?i=fastapi" />
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
@@ -31,16 +31,9 @@
 ### Backend & APIs
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi" />
-</p>
-<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,react" />
 </p>
 
-
-### Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
 
 ### Cloud & DevOps
 <p align="center">
