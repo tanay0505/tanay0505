@@ -21,32 +21,11 @@
 
 # 💻 Tech Stack:
 
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-Python | JavaScript | SQL | C++
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp" />
-</p>
-
-### ☁️ DevOps & Cloud
-Docker | Kubernetes | Terraform | GitHub Actions | Linux | AWS
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,linux,aws" />
-</p>
-
-### ⚙️ Backend & Databases
-FastAPI | REST APIs | MySQL | PostgreSQL
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,mysql,postgres" />
-</p>
-
 ### Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,mysql,cpp" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 ### Backend & APIs
