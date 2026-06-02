@@ -23,7 +23,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,cpp" />
-  <img src="https://skillicons.dev/icons?i=fastapi" />
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
@@ -32,10 +31,9 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,react" />
 </p>
 
-
-### Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,bash,git,githubactions,python" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,git,githubactions" />
+  <img src="https://skillicons.dev/icons?i=linux,windows" />
 </p>
 
 <br> <br>
