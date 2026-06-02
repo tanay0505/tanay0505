@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Tanay%20Shah&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Cloud%20%7C%20DevOps%20%7C%20Security&descAlignY=65" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,mysql,cpp" />
 </p>
 
 <h2> About Me </h2>
