@@ -48,6 +48,10 @@
   <a href="https://www.linkedin.com/in/tanayshah0505/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  
+  <a href="mailto:tanay3527@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 
