@@ -5,9 +5,16 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=250&section=header&text=Tanay%20Shah&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=AWS%20•%20Docker%20•%20Kubernetes%20•%20Terraform%20•%20Linux" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Tanay%20Shah&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Cloud%20%7C%20DevOps%20%7C%20Security&descAlignY=65" />
 </p>
 
+<h3 align="center">
+Cloud & DevOps Engineer
+</h3>
+
+<p align="center">
+AWS • Docker • Kubernetes • Terraform • Linux • GitHub Actions
+</p>
 
 <h2> About Me </h2>
 <img align="right" img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="250" height="250" />
