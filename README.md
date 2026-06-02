@@ -1,17 +1,19 @@
 ![github-header-image](https://github.com/user-attachments/assets/2f9217c7-dc77-48bd-8fc9-2c1a50f68811)
 
+<p align="center">
+  <img src="YOUR_BANNER_URL" alt="Cloud DevOps Security Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Tanay Shah</h1>
 
 <h3 align="center">
-Cloud & DevOps Engineer | AWS | Docker | Kubernetes | Terraform | Linux
+Cloud & DevOps Engineer
 </h3>
 
 <p align="center">
-🏆 Top 5% TryHackMe <br>
-🎓 B.Tech Computer Science Graduate <br>
-☁️ Building Cloud Native Infrastructure <br>
-🚀 Open to Cloud & DevOps Opportunities
+AWS • Docker • Kubernetes • Terraform • Linux • GitHub Actions
 </p>
+
 <h2> About Me </h2>
 <img align="right" img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="250" height="250" />
 <ul>
