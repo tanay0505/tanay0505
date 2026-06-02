@@ -1,10 +1,8 @@
 ![github-header-image](https://github.com/user-attachments/assets/2f9217c7-dc77-48bd-8fc9-2c1a50f68811)
 
 <p align="center">
-  <img src="YOUR_BANNER_URL" alt="Cloud DevOps Security Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Tanay%20Shah&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Cloud%20%7C%20DevOps%20%7C%20Security&descAlignY=65" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Tanay Shah</h1>
 
 <h3 align="center">
 Cloud & DevOps Engineer
