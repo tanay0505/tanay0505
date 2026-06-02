@@ -12,16 +12,40 @@
 <p>🎓 BTech CSE Graduate from Ahmedabad University.</p>
 </li>
 <li>
-<p>🌱 Currently learning Distributed Systems, Cloud Infrastructure and AI Engineering workflows</p>
+<p>🏆 Top 5% TryHackMe</p>
 </li>
 <li>
-<p>✨ Interested in Backend Engineering, AI Systems, Cloud Infrastructure and Cyber Security</p>
+<p>🌱 Currently learning Distributed Systems, Cloud Infrastructure and Cybersecurity</p>
+</li>
+<li>
+<p>💼 Open to Cloud, DevOps and Infrastructure opportunities</p>
 </li>
 </ul>
 
 <br> <br>
 
 # 💻 Tech Stack:
+
+```yaml
+Cloud:
+  - AWS
+
+Containers:
+  - Docker
+  - Kubernetes
+
+Infrastructure as Code:
+  - Terraform
+
+Operating Systems:
+  - Linux
+
+CI/CD:
+  - GitHub Actions
+
+Programming:
+  - Python
+  - Bash
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
