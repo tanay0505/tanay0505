@@ -22,11 +22,7 @@
 # 🛠️ Tech Stack:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,mysql,postgres" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,fastapi,mysql,postgres" />
 </p>
 
 <p align="left">
