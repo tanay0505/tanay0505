@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=250&section=header&text=Tanay%20Shah&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Cloud%20Engineer%20|%20DevOps%20|%20Infrastructure&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:2563EB&height=250&section=header&text=Tanay%20Shah&fontSize=55&fontColor=ffffff&animation=twinkling&desc=AWS%20•%20Docker%20•%20Kubernetes%20•%20Terraform&descAlignY=65" />
 </p>
 
 
