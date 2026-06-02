@@ -1,15 +1,7 @@
 ![github-header-image](https://github.com/user-attachments/assets/2f9217c7-dc77-48bd-8fc9-2c1a50f68811)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Tanay%20Shah&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Cloud%20%7C%20DevOps%20%7C%20Security&descAlignY=65" />
-</p>
-
-<h3 align="center">
-Cloud & DevOps Engineer
-</h3>
-
-<p align="center">
-AWS • Docker • Kubernetes • Terraform • Linux • GitHub Actions
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Cloud+Engineer;DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Linux+%7C+CI%2FCD" />
 </p>
 <h2> About Me </h2>
 <img align="right" img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="250" height="250" />
