@@ -4,6 +4,10 @@
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,bash,git,githubactions,python" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=250&section=header&text=Tanay%20Shah&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Cloud%20Engineer%20|%20DevOps%20|%20Infrastructure&descAlignY=65" />
+</p>
+
 
 <h2> About Me </h2>
 <img align="right" img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="250" height="250" />
@@ -25,27 +29,6 @@
 <br> <br>
 
 # 💻 Tech Stack:
-
-```yaml
-Cloud:
-  - AWS
-
-Containers:
-  - Docker
-  - Kubernetes
-
-Infrastructure as Code:
-  - Terraform
-
-Operating Systems:
-  - Linux
-
-CI/CD:
-  - GitHub Actions
-
-Programming:
-  - Python
-  - Bash
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
