@@ -19,17 +19,17 @@
 
 <br> <br>
 
-# 💻 Tech Stack:
+# 🛠️ Tech Stack:
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,javascript,cpp,mysql,postgres" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,git,githubactions" />
 </p>
 
