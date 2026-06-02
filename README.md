@@ -22,19 +22,21 @@
 # 💻 Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp" />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,mysql,postgres" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,git,githubactions" />
+</p>
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=linux,windows" />
 </p>
+
 
 <br> <br>
 
