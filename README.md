@@ -20,12 +20,13 @@
 
 # 🛠️ Tech Stack:
 
+## Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,fastapi,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,javascript,cpp" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,git,githubactions" />
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,kubernetes,terraform,aws,git,githubactions" />
 </p>
 
 <p align="left">
