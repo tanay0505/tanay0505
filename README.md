@@ -25,6 +25,7 @@
   <img src="https://skillicons.dev/icons?i=python,mysql,javascript,cpp" />
 </p>
 
+## Devops and CLoud
 <p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,kubernetes,terraform,aws,git,githubactions" />
 </p>
