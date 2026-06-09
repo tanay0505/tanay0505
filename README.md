@@ -34,12 +34,6 @@
   <img src="https://skillicons.dev/icons?i=linux,windows" />
 </p>
 
-<img src="https://cdn.simpleicons.org/nmap" height="50" />
-<img src="https://cdn.simpleicons.org/wireshark" height="50" />
-<img src="https://cdn.simpleicons.org/burpsuite" height="50" />
-<img src="https://cdn.simpleicons.org/metasploit" height="50" />
-<img src="https://cdn.simpleicons.org/kali-linux" height="50" />
-
 
 <br> <br>
 
